@@ -1,0 +1,12 @@
+[core]
+	editor = vim
+[user]
+	name = Takkiii
+	email = s.takkiii.com@gmail.com
+[status]
+	showUntrackedFiles = all
+[color]
+	ui = true
+	diff = auto
+	status = auto
+	branch = auto
